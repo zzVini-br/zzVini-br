@@ -41,12 +41,6 @@ Em desenvolvimento: Página Web para treinar digitação em diferentes linguagen
         height="150"
       />
     </td>
-    <td align="center">
-      <img 
-        src="https://nirzak-streak-stats.vercel.app/?user=zzVini-br&theme=shadow_red&hide_border=true" 
-        height="150"
-      />
-    </td>
   </tr>
 </table>
 

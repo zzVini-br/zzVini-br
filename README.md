@@ -1,10 +1,4 @@
-<p align="center">
-  🎓 Estudante de Engenharia de Software (7º semestre)<br>
-  (Um dia eu termino)
-</p>
-
 ---
-
 ## Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)

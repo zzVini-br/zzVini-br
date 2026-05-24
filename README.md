@@ -1,3 +1,5 @@
+Faço alguns códigos e procuro falhas em coisas.
+
 ---
 ## Tech Stack
 
